@@ -1,0 +1,1 @@
+Hello! This is a very simple Rock, Paper, Scissors game made using JavaScript. It prompts for an input from the user, chooses a computer move randomly and then counts the score. The game finishes after five rounds and shows the final score to the player.
